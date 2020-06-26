@@ -1,0 +1,160 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul,ol {
+    list-style-type: none;
+}
+
+.clr {
+    clear: both;
+}
+
+.full-wrapper {
+    width: 100%;
+}
+
+.wrapper {
+    width: 1170px;
+    margin: 0 auto;
+}
+
+.head {
+    text-align: center;
+}
+
+.head h1 {
+    color: chocolate;
+    font-size: 34px;
+    font-family: 'MuseoModerno', cursive;
+    font-weight: 700;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-transform: uppercase;
+}
+
+.prograss-border {
+    width: 100%;
+    border: 1px solid chocolate;
+    padding: 15px;
+    position: relative;
+}
+
+.bar {
+    position: absolute;
+    width: 10px;
+    height: 25px;
+    background: coral;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+
+.prograss-border-two {
+    width: 100%;
+    border: 1px solid chocolate;
+    padding: 15px;
+    position: relative;
+}
+
+.bar-two {
+    position: absolute;
+    width: 10px;
+    height: 25px;
+    background: coral;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.prograss-border-three {
+    width: 100%;
+    border: 1px solid chocolate;
+    padding: 15px;
+    position: relative;
+}
+
+.bar-three {
+    position: absolute;
+    width: 10px;
+    height: 25px;
+    background: coral;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.prograss-border-four {
+    width: 100%;
+    border: 1px solid chocolate;
+    padding: 15px;
+    position: relative;
+}
+
+.bar-four {
+    position: absolute;
+    width: 10px;
+    height: 25px;
+    background: coral;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.prograss-border-five {
+    width: 100%;
+    border: 1px solid chocolate;
+    padding: 15px;
+    position: relative;
+}
+
+.bar-five {
+    position: absolute;
+    width: 10px;
+    height: 25px;
+    background: coral;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.prograss-border-six {
+    width: 100%;
+    border: 1px solid chocolate;
+    padding: 15px;
+    position: relative;
+}
+
+.bar-six {
+    position: absolute;
+    width: 10px;
+    height: 25px;
+    background: coral;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.prograss-border-seven {
+    width: 100%;
+    border: 1px solid chocolate;
+    padding: 15px;
+    position: relative;
+}
+
+.bar-seven {
+    position: absolute;
+    width: 10px;
+    height: 25px;
+    background: coral;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+}
